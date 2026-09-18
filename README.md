@@ -12,19 +12,19 @@
 
 
 <p align="center">
-<a href="https://YOUR_DOMAIN">
+<a href="https://ayoublksna.is-a.dev/">
   <img src="https://img.shields.io/badge/PORTFOLIO-F1F0EC?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=F1F0EC">
 </a>
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/ayoub-lksna/">
   <img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=F1F0EC&style=for-the-badge&labelColor=F1F0EC&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==">
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ayoublksna">
   <img src="https://img.shields.io/badge/GITHUB-F1F0EC?style=for-the-badge&logo=github&logoColor=000000&labelColor=F1F0EC">
 </a>
 <a href="https://wa.me/YOUR_PHONE_NUMBER">
   <img src="https://img.shields.io/badge/WHATSAPP-F1F0EC?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=F1F0EC">
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ayoublksna@hotmail.com">
   <img src="https://img.shields.io/badge/EMAIL-F1F0EC?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=F1F0EC">
 </a>
 </p>
