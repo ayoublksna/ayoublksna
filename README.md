@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<a href="https://ayoublksna.is-a.dev/">
+<a href="https://ayoublksna.com/">
   <img src="https://img.shields.io/badge/PORTFOLIO-F1F0EC?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=F1F0EC">
 </a>
 <a href="https://www.linkedin.com/in/ayoub-lksna/">
@@ -21,7 +21,7 @@
 <a href="https://github.com/ayoublksna">
   <img src="https://img.shields.io/badge/GITHUB-F1F0EC?style=for-the-badge&logo=github&logoColor=000000&labelColor=F1F0EC">
 </a>
-<a href="https://wa.me/YOUR_PHONE_NUMBER">
+<a href="https://wa.me/212661675867">
   <img src="https://img.shields.io/badge/WHATSAPP-F1F0EC?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=F1F0EC">
 </a>
 <a href="mailto:ayoublksna@hotmail.com">
