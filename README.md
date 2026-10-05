@@ -1,10 +1,11 @@
+
 <img width="1280" height="344" alt="I'm a full-stack developer and AI engineer who considers every line and small detail, and ships products end to end — from the database to the pixels, from the backend to the frontend." src="https://github.com/user-attachments/assets/76b5fe24-2985-467f-9a6d-397b59e7c0d2" />
 
 <img width="1280" height="490" alt="ayoublksna@hotmail.com  -  signature" src="https://github.com/user-attachments/assets/309eaf7b-587c-44bf-9371-5a3da5aec90e" />
 <img width="1280" height="54" alt="logos of techniques i work with" src="https://github.com/user-attachments/assets/db3765a3-5491-406d-9fbe-1e03c88b6a48" />
 <img width="1280" height="724" alt="services  -  dev devops ai" src="https://github.com/user-attachments/assets/9640f465-933d-44ba-8b4f-2fd3edb1f466" />
 <img width="1280" height="544" alt="details about each service" src="https://github.com/user-attachments/assets/5dc6cd37-d41b-4013-a778-62a3002648b0" />
-<img width="1280" height="680" alt="phone and email and contacts" src="https://github.com/user-attachments/assets/27425bc6-809e-4a56-a2b6-a1d9d670a307" />
+<img width="1280" height="812" alt="ScreenRecording2026-10-05154809-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e5a1fe01-aa11-410a-8ad1-ee5d4e28ab75" />
 
 
 
