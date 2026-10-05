@@ -24,7 +24,7 @@
 <a href="https://wa.me/212661675867">
   <img src="https://img.shields.io/badge/WHATSAPP-F1F0EC?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=F1F0EC">
 </a>
-<a href="mailto:ayoublksna@hotmail.com">
+<a href="mailto:me@ayoublksna.com">
   <img src="https://img.shields.io/badge/EMAIL-F1F0EC?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=F1F0EC">
 </a>
 </p>
